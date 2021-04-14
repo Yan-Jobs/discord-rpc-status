@@ -11,7 +11,7 @@ client.on("ready", () => {
         large_text: "building a discord server...",
       },
       buttons: [
-        { label: "My website", url: "https://www.yaniobs.me" },
+        { label: "My website", url: "https://www.yanjobs.me" },
         { label: "My GitHub", url: "https://GitHub.com/Yan-Jobs" },
       ],
     },
